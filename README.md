@@ -1,5 +1,5 @@
-## Getting and Cleaning Data Course Project
-# GettingandCleaningProject
+# Getting and Cleaning Data Course Project
+## GettingandCleaningProject
 
 
 The purpose of this project is to demonstrate an ability to collect, work with, and clean a data set. 
