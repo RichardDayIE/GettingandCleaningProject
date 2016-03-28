@@ -14,3 +14,12 @@ This repo explains how all of the scripts work and how they are connected.
 
 # This is the README.md
 
+There is a single r code filed in the repo called run_analysis.R.
+This file will extract the data from the zip file and carry out the excercisee that is required.
+
+The codebook included describes the activities carried out - i.e. mainly the transformation in the 
+The tidy data file produced can be read back in to R using
+
+readinTidyData<- read.table("./tidyData.txt")
+
+Thanks for your time in reading over my file.
