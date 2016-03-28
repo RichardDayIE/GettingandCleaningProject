@@ -96,4 +96,5 @@ tidyData = aggregate(extractedDataforSumming[,names(extractedDataforSumming) != 
 tidyData    = merge(tidyData,activityLabels,by='activityID',all.x=TRUE)
 
 # Export the tidyData set 
-write.table(tidyData, './tidyData.txt',row.names=TRUE,sep='\t')
+write.table(tidyData, './tidyData.txt',row.names=FALSE,sep='\t')
+
